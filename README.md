@@ -31,8 +31,8 @@ Menu-Driven Calculator using JavaScript functions and callbacks.
 
 ## Files Included
 
-- `question1-9.js` – Solutions for all 9 assignment questions.
-- `bonus-calculator.js` – Menu-driven calculator implementation.
+- `task1_9.js` – Solutions for all 9 assignment questions.
+- `bonus.js` – Menu-driven calculator implementation.
 - `README.md` – Assignment description and details.
 
 ## Technology Used
